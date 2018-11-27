@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\BooleanCarInsurance\BooleanCarInsurance\bin\Debug\BooleanCarInsurance.exe.config
+C:\Users\Student\source\repos\BooleanCarInsurance\BooleanCarInsurance\bin\Debug\BooleanCarInsurance.exe
+C:\Users\Student\source\repos\BooleanCarInsurance\BooleanCarInsurance\bin\Debug\BooleanCarInsurance.pdb
+C:\Users\Student\source\repos\BooleanCarInsurance\BooleanCarInsurance\obj\Debug\BooleanCarInsurance.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\BooleanCarInsurance\BooleanCarInsurance\obj\Debug\BooleanCarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BooleanCarInsurance\BooleanCarInsurance\obj\Debug\BooleanCarInsurance.exe
+C:\Users\Student\source\repos\BooleanCarInsurance\BooleanCarInsurance\obj\Debug\BooleanCarInsurance.pdb
