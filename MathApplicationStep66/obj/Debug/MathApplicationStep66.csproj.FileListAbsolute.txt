@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\MathApplicationStep66\MathApplicationStep66\bin\Debug\MathApplicationStep66.exe.config
+C:\Users\Student\source\repos\MathApplicationStep66\MathApplicationStep66\bin\Debug\MathApplicationStep66.exe
+C:\Users\Student\source\repos\MathApplicationStep66\MathApplicationStep66\bin\Debug\MathApplicationStep66.pdb
+C:\Users\Student\source\repos\MathApplicationStep66\MathApplicationStep66\obj\Debug\MathApplicationStep66.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MathApplicationStep66\MathApplicationStep66\obj\Debug\MathApplicationStep66.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MathApplicationStep66\MathApplicationStep66\obj\Debug\MathApplicationStep66.exe
+C:\Users\Student\source\repos\MathApplicationStep66\MathApplicationStep66\obj\Debug\MathApplicationStep66.pdb
