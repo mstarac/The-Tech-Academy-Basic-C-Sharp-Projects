@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\BooleanWhileDrill\BooleanWhileDrill\bin\Debug\BooleanWhileDrill.exe.config
+C:\Users\Student\source\repos\BooleanWhileDrill\BooleanWhileDrill\bin\Debug\BooleanWhileDrill.exe
+C:\Users\Student\source\repos\BooleanWhileDrill\BooleanWhileDrill\bin\Debug\BooleanWhileDrill.pdb
+C:\Users\Student\source\repos\BooleanWhileDrill\BooleanWhileDrill\obj\Debug\BooleanWhileDrill.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\BooleanWhileDrill\BooleanWhileDrill\obj\Debug\BooleanWhileDrill.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BooleanWhileDrill\BooleanWhileDrill\obj\Debug\BooleanWhileDrill.exe
+C:\Users\Student\source\repos\BooleanWhileDrill\BooleanWhileDrill\obj\Debug\BooleanWhileDrill.pdb
