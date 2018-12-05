@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\MethodsFour\MethodsFour\bin\Debug\MethodsFour.exe.config
+C:\Users\Student\source\repos\MethodsFour\MethodsFour\bin\Debug\MethodsFour.exe
+C:\Users\Student\source\repos\MethodsFour\MethodsFour\bin\Debug\MethodsFour.pdb
+C:\Users\Student\source\repos\MethodsFour\MethodsFour\obj\Debug\MethodsFour.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MethodsFour\MethodsFour\obj\Debug\MethodsFour.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MethodsFour\MethodsFour\obj\Debug\MethodsFour.exe
+C:\Users\Student\source\repos\MethodsFour\MethodsFour\obj\Debug\MethodsFour.pdb

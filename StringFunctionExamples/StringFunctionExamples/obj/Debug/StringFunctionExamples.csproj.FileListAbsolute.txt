@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\StringFunctionExamples\StringFunctionExamples\bin\Debug\StringFunctionExamples.exe.config
+C:\Users\Student\source\repos\StringFunctionExamples\StringFunctionExamples\bin\Debug\StringFunctionExamples.exe
+C:\Users\Student\source\repos\StringFunctionExamples\StringFunctionExamples\bin\Debug\StringFunctionExamples.pdb
+C:\Users\Student\source\repos\StringFunctionExamples\StringFunctionExamples\obj\Debug\StringFunctionExamples.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\StringFunctionExamples\StringFunctionExamples\obj\Debug\StringFunctionExamples.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\StringFunctionExamples\StringFunctionExamples\obj\Debug\StringFunctionExamples.exe
+C:\Users\Student\source\repos\StringFunctionExamples\StringFunctionExamples\obj\Debug\StringFunctionExamples.pdb

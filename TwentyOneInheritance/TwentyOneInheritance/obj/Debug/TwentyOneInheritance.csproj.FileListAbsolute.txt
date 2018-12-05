@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\TwentyOneInheritance\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\TwentyOneInheritance\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TwentyOneInheritance\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.exe.config
+C:\Users\Student\source\repos\TwentyOneInheritance\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.exe
+C:\Users\Student\source\repos\TwentyOneInheritance\TwentyOneInheritance\bin\Debug\TwentyOneInheritance.pdb
+C:\Users\Student\source\repos\TwentyOneInheritance\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.exe
+C:\Users\Student\source\repos\TwentyOneInheritance\TwentyOneInheritance\obj\Debug\TwentyOneInheritance.pdb

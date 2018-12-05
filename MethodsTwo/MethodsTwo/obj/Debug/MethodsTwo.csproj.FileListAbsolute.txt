@@ -1,0 +1,2 @@
+C:\Users\Student\source\repos\MethodsTwo\MethodsTwo\obj\Debug\MethodsTwo.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MethodsTwo\MethodsTwo\obj\Debug\MethodsTwo.csproj.CoreCompileInputs.cache

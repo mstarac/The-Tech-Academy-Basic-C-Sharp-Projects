@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\PackageExpressBranching\PackageExpressBranching\obj\Debug\PackageExpressBranching.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\PackageExpressBranching\PackageExpressBranching\obj\Debug\PackageExpressBranching.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PackageExpressBranching\PackageExpressBranching\bin\Debug\PackageExpressBranching.exe.config
+C:\Users\Student\source\repos\PackageExpressBranching\PackageExpressBranching\bin\Debug\PackageExpressBranching.exe
+C:\Users\Student\source\repos\PackageExpressBranching\PackageExpressBranching\bin\Debug\PackageExpressBranching.pdb
+C:\Users\Student\source\repos\PackageExpressBranching\PackageExpressBranching\obj\Debug\PackageExpressBranching.exe
+C:\Users\Student\source\repos\PackageExpressBranching\PackageExpressBranching\obj\Debug\PackageExpressBranching.pdb

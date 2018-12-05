@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\LoopsExamples\LoopsExamples\bin\Debug\LoopsExamples.exe.config
+C:\Users\Student\source\repos\LoopsExamples\LoopsExamples\bin\Debug\LoopsExamples.exe
+C:\Users\Student\source\repos\LoopsExamples\LoopsExamples\bin\Debug\LoopsExamples.pdb
+C:\Users\Student\source\repos\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.exe
+C:\Users\Student\source\repos\LoopsExamples\LoopsExamples\obj\Debug\LoopsExamples.pdb

@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\IterationExamples\IterationExamples\bin\Debug\IterationExamples.exe.config
+C:\Users\Student\source\repos\IterationExamples\IterationExamples\bin\Debug\IterationExamples.exe
+C:\Users\Student\source\repos\IterationExamples\IterationExamples\bin\Debug\IterationExamples.pdb
+C:\Users\Student\source\repos\IterationExamples\IterationExamples\obj\Debug\IterationExamples.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\IterationExamples\IterationExamples\obj\Debug\IterationExamples.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\IterationExamples\IterationExamples\obj\Debug\IterationExamples.exe
+C:\Users\Student\source\repos\IterationExamples\IterationExamples\obj\Debug\IterationExamples.pdb

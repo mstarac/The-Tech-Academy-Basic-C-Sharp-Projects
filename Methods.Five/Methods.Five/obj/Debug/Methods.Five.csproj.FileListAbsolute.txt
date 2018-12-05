@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Methods.Five\Methods.Five\obj\Debug\Methods.Five.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Methods.Five\Methods.Five\obj\Debug\Methods.Five.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Methods.Five\Methods.Five\bin\Debug\Methods.Five.exe.config
+C:\Users\Student\source\repos\Methods.Five\Methods.Five\bin\Debug\Methods.Five.exe
+C:\Users\Student\source\repos\Methods.Five\Methods.Five\bin\Debug\Methods.Five.pdb
+C:\Users\Student\source\repos\Methods.Five\Methods.Five\obj\Debug\Methods.Five.exe
+C:\Users\Student\source\repos\Methods.Five\Methods.Five\obj\Debug\Methods.Five.pdb
